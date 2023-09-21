@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Margaryta Klymak"
 title_separator          : "-"
 name                     : &name "Margaryta Klymak"
-description              : &description "personal description"
+description              : &description "College Fellow in Economics, University of Oxford"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "margaryta.klymak@economics.ac.uk"
   generatedFields:
     date:
       type               : "date"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Margaryta"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "College Fellow in Economics, University of Oxford"
   location         : "Oxford, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
