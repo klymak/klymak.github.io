@@ -1,8 +1,6 @@
 ---
-layout: archive
-title: "Teaching"
 permalink: /teaching/
-author_profile: true
+title: "Teaching"
 ---
 
 I am responsible for organising Economics for PPE and History & Economics at Somerville College, University of Oxford. I am also a Tutor for Quantitative Economics, Development Economics and Introductory Economics. 
