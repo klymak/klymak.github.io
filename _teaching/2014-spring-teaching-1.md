@@ -1,8 +1,3 @@
----
-permalink: /teaching/
-title: "Teaching"
----
-
 I am responsible for organising Economics for PPE and History & Economics at Somerville College, University of Oxford. 
 
 
